@@ -1,5 +1,5 @@
-# boaconst.github.io
-Portfolio for Suumil Roy
+# reagurjal.github.io
+Portfolio for Rea Gurjal
 
 TODO
 # Need to add separate pages for each of the projects
